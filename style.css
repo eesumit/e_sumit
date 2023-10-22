@@ -1,0 +1,26 @@
+button{
+    display:flex;
+}
+.alert {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1vh; /* This will make the alert take up the full height of the viewport */
+  }
+.esumit{
+    color: blue;
+    font-size: 3rem;
+    cursor: progress;
+}
+.navbar{
+    background-color: pink;
+}
+body{
+    background-image: url("sumit.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
